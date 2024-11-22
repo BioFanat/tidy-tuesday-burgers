@@ -1,0 +1,14 @@
+
+---
+title: "Tidy Tuesday Analysis"
+author: "Bo Chi"
+date: "11-25-2024"
+format: pdf
+---
+
+## Setup
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(tidytuesdayR)
